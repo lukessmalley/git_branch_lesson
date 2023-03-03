@@ -1,5 +1,6 @@
-# Git Branch Lesson
 
-This is our project repository. 
+# Project Title
+Here are some updates that I made
 
 var = "hello"
+var2 = "goodbye"
