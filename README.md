@@ -1,7 +1,6 @@
+
 # Project Title
+Here are some updates that I made
 
-Here are some updates that I mad
-
+var = "hello"
 var2 = "goodbye"
-
-var4 = "luke new var"
